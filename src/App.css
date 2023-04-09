@@ -94,3 +94,10 @@ footer {
 footer:not(:first-child) {
   border-top: 1px solid #3b4149;
 }
+
+footer .input-group-text {
+  background-color: #232f3e;
+  color: white;
+  padding: 6px 17px;
+  
+}
